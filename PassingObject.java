@@ -24,5 +24,4 @@ public class PassingObject {
 		ob2.setData(ob1,36,85);
 		ob2.getData(ob1);
 	}
-
 }
