@@ -22,6 +22,5 @@ public class ThreadClass
 	   Thread2 t2=new Thread2();
 	   t1.start();
 	   t2.start();
-	   
    }
 }
