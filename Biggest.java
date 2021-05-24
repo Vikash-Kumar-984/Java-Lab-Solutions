@@ -36,6 +36,7 @@ public class Biggest {
 		System.out.println("\n The big number is positive");
 		if(big<0)
 			System.out.println("\n The big number is negative");
+		
 
 	}
 
