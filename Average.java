@@ -24,8 +24,5 @@ public class Average {
 		{
 			System.out.println("Deviation of marks "+name[i]+ "=" +(total[i]-avg));
 		}
-		
-
 	}
-
 }
