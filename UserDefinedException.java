@@ -28,5 +28,4 @@ public class UserDefinedException {
     	  System.out.println("Caught" +e);
       }
 	}
-
 }
