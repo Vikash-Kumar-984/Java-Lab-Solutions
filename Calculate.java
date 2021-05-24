@@ -1,4 +1,4 @@
-// Java Class “Shape” with constructor to initialize the one parameter dimension
+// Java Class â€œShapeâ€ with constructor to initialize the one parameter dimension
 
 class Shape
 {
@@ -76,5 +76,4 @@ public class Calculate {
         ob4.surfacearea();
         
 	}
-
 }
