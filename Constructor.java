@@ -25,5 +25,4 @@ public class Constructor<car> {
 		Constructor c3=new Constructor(c2);
 		c3.display();
 	}
-
 }
