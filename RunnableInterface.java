@@ -12,5 +12,4 @@ public class RunnableInterface implements Runnable
         Thread t= new Thread(ob);
         t.start();
 	}
-
    }
