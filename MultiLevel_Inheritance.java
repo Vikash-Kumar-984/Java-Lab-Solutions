@@ -30,5 +30,4 @@ public class MultiLevel_Inheritance {
          ob.putData();
          ob.add();
 	}
-
 }
