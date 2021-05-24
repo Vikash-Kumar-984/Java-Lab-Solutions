@@ -18,5 +18,4 @@ public class ExceptionHandling {
        }
        System.out.println("See you soon :)");
 	}
-
 }
