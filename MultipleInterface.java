@@ -21,5 +21,4 @@ public class MultipleInterface extends Test implements T1 {
          ob.show1();
          ob.show2();
 	}
-
 }
