@@ -37,10 +37,15 @@ a Demonstrate different types of constructors
 
 b Create a Java Class “Shape” with constructor to initialize the one parameter 
 “dimension”. Now create three sub classes of Shape with following methods 
+
 (i) “Circle” with methods to calculate the area and circumference of the 
-circle with dimension as radius. (ii) “Square” with methods to calculate the 
+circle with dimension as radius.
+
+(ii) “Square” with methods to calculate the 
 area and length of diagonal of the square with dimension as length of one 
-side. (assuming length of each side of the square is same). (iii) “Sphere” 
+side. (assuming length of each side of the square is same).
+
+(iii) “Sphere” 
 with methods to calculate the volume and surface area of the sphere with 
 dimension as radius of the sphere. Write appropriate main method to create 
 object of each class and test every method.
