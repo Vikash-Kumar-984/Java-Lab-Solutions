@@ -2,7 +2,7 @@ import java.applet.Applet;
 import java.awt.Color;
 import java.awt.Graphics;
 
-/*<applet code= "Bounce.class" height=900 width=900>
+/*<applet code= "BouncingBall.class" height=900 width=900>
 </applet>*/
 
 class Balls
